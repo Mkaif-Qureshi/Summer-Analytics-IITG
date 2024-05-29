@@ -24,7 +24,7 @@ This repo contains all the materials, Colab notebooks, and code files for each d
 
 ### Colab Notebooks
 - **Day 2 NumPy Notebook**: [Link to Colab Notebook](https://colab.research.google.com/drive/15yuRq0QtXPtOuGUSCNWOSh71E5zWVldk)
-- **Day 2 Pandas Notebook**: [Link to Colab Notebook](#)
+- **Day 2 Pandas Notebook**: [Link to Colab Notebook](https://colab.research.google.com/drive/1opt0IzJIMr-lhjwkukoc4sKsJWGtTuaA#scrollTo=xXX3dgwUqOmW)
 
 ## Day 3: Data Analysis with Pandas
 
