@@ -55,7 +55,7 @@ This repo contains all the materials, Colab notebooks, and code files for each d
   
   ### Colab Notebooks
   - **Introduction to Matplotlib**: [Matplotlib Colab](https://colab.research.google.com/drive/1nIni-BLq5JRWLsRgXAyUS0l8byfHkKaK#scrollTo=NWl9k98Vhn0P)
-  - **Introduction to Seaborn**: [Seaborn Colab](link-to-colab)
+  - **Introduction to Seaborn**: [Seaborn Colab](https://colab.research.google.com/drive/1jkMa6w6ss8CQQ1g4i1czXaLTii70lcdZ#scrollTo=hVUZXjlo1luL)
   - **Introduction to Plotly**: [Plotly Colab](link-to-colab)
   
   ## Day 5: Descriptive Statistics
