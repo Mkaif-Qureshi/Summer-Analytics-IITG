@@ -83,7 +83,7 @@ This repo contains all the materials, Colab notebooks, and code files for each d
 **Objective**: Learn techniques to deal with common data issues like missing values, categorical values, and outliers.
 
 ### Colab Notebooks:
-- **Feature Engineering and EDA Notebook**: [Link to Colab Notebook](#)
+- **Outlier Analysis**: [Link to Colab Notebook](https://colab.research.google.com/drive/1BEbrp05eBa378M_p7sNlH9PRKTTyMRCx#scrollTo=wNYP_FW3ra7h)
 - **Handling Missing Values Notebook**: [Link to Colab Notebook](#)
 
 ## Day 2: Introduction to Machine Learning
