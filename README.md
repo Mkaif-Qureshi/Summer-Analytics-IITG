@@ -83,15 +83,14 @@ This repo contains all the materials, Colab notebooks, and code files for each d
 **Objective**: Learn techniques to deal with common data issues like missing values, categorical values, and outliers.
 
 ### Colab Notebooks:
-- **Outlier Analysis**: [Link to Colab Notebook](https://colab.research.google.com/drive/1BEbrp05eBa378M_p7sNlH9PRKTTyMRCx#scrollTo=wNYP_FW3ra7h)
-- **Handling Missing Values Notebook**: [Link to Colab Notebook](#)
+- **Outlier Analysis and Handling Missing Values**: [Link to Colab Notebook](https://colab.research.google.com/drive/1BEbrp05eBa378M_p7sNlH9PRKTTyMRCx#scrollTo=wNYP_FW3ra7h)
 
 ## Day 2: Introduction to Machine Learning
 
 **Objective**: Gain a motivational understanding of Machine Learning, its applications, and basic concepts.
 
-### Colab Notebooks:
-- **Introduction to Machine Learning Notebook**: [Link to Colab Notebook](#)
+### Resources:
+- **Linear Algebra**: [Link](https://cs229.stanford.edu/summer2019/cs229-linalg.pdf)
 
 ## Day 3: Linear Regression with One Variable
 
