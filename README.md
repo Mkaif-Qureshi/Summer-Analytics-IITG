@@ -11,6 +11,11 @@ This repo contains all the materials, Colab notebooks, and code files for each d
   - [Day 4: Data Visualization](#day-4-data-visualization)
   - [Day 5: Descriptive Statistics](#day-5-descriptive-statistics)
 - [Week 2](#week-2)
+  - [Day 1: Feature Engineering and Data Cleaning](#day-1-feature-engineering-and-data-cleaning)
+  - [Day 2: Introduction to Machine Learning](#day-2-introduction-to-machine-learning)
+  - [Day 3: Linear Regression with One Variable](#day-3-linear-regression-with-one-variable)
+  - [Day 4: Linear Regression with Multiple Variables](#day-4-linear-regression-with-multiple-variables)
+  - [Day 5: Logistic Regression](#day-5-logistic-regression)
 - [Week 3](#week-3)
 - [Week 4](#week-4)
 - [Week 5](#week-5)
@@ -62,22 +67,52 @@ This repo contains all the materials, Colab notebooks, and code files for each d
   
   **Objective**: Summarizing data using descriptive statistics.
   
-  ### Colab Notebooks
+  ### Topics covered
   - **Data Types in Statistics**
-    - [Statistics Data Types Colab](link-to-colab)
   - **Measurement of Central Tendency**
-    - [Central Tendency Colab](link-to-colab)
   - **Normal Distribution**
-    - [Normal Distribution Colab](link-to-colab)
   - **Quantile Plots**
-    - [Quantile Plots Colab](link-to-colab)
 
 </details>
 
 <details>
 <summary><strong>Week 2</strong></summary>
 
-Content for Week 2 goes here...
+## Day 1: Feature Engineering and Data Cleaning
+
+**Objective**: Learn techniques to deal with common data issues like missing values, categorical values, and outliers.
+
+### Colab Notebooks:
+- **Feature Engineering and EDA Notebook**: [Link to Colab Notebook](#)
+- **Handling Missing Values Notebook**: [Link to Colab Notebook](#)
+
+## Day 2: Introduction to Machine Learning
+
+**Objective**: Gain a motivational understanding of Machine Learning, its applications, and basic concepts.
+
+### Colab Notebooks:
+- **Introduction to Machine Learning Notebook**: [Link to Colab Notebook](#)
+
+## Day 3: Linear Regression with One Variable
+
+**Objective**: Study the simplest Machine Learning model, Linear Regression, along with the cost function and gradient descent.
+
+### Colab Notebooks:
+- **Linear Regression with One Variable Notebook**: [Link to Colab Notebook](#)
+
+## Day 4: Linear Regression with Multiple Variables
+
+**Objective**: Extend the understanding of Linear Regression to multiple features.
+
+### Colab Notebooks:
+- **Linear Regression with Multiple Variables Notebook**: [Link to Colab Notebook](#)
+
+## Day 5: Logistic Regression
+
+**Objective**: Get introduced to the first classification model, Logistic Regression.
+
+### Colab Notebooks:
+- **Logistic Regression Notebook**: [Link to Colab Notebook](#)
 
 </details>
 
