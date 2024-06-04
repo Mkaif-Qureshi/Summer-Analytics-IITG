@@ -61,7 +61,7 @@ This repo contains all the materials, Colab notebooks, and code files for each d
   ### Colab Notebooks
   - **Introduction to Matplotlib**: [Matplotlib Colab](https://colab.research.google.com/drive/1nIni-BLq5JRWLsRgXAyUS0l8byfHkKaK#scrollTo=NWl9k98Vhn0P)
   - **Introduction to Seaborn**: [Seaborn Colab](https://colab.research.google.com/drive/1jkMa6w6ss8CQQ1g4i1czXaLTii70lcdZ#scrollTo=hVUZXjlo1luL)
-  - **Introduction to Plotly**: [Plotly Colab](https://colab.research.google.com/drive/1BEbrp05eBa378M_p7sNlH9PRKTTyMRCx#)
+  - **Introduction to Plotly**: [Plotly Colab](https://github.com/Mkaif-Qureshi/Summer-Analytics-IITG/blob/main/Notebooks/W1_4_IITG_plotly.ipynb)
   
   ## Day 5: Descriptive Statistics
   
