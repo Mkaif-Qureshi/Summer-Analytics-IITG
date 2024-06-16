@@ -118,9 +118,59 @@ This repo contains all the materials, Colab notebooks, and code files for each d
 <details>
 <summary><strong>Week 3</strong></summary>
 
-Content for Week 3 goes here...
-
+  ## Day 1: Overfitting, Underfitting, and Regularization
+  
+  **Objective**: Understanding Overfitting, Underfitting, the Bias-Variance Tradeoff, and Regularization.
+  
+  ### Resources
+  - **Bias-Variance Video**: [Link to Video](#)
+  - **Blog**: [Link to Blog](#)
+  - **Overfitting and Regularisation**: Pages 37-41 from the provided material.
+  - **L1 L2 Regularization**: [Link to Resource](#)
+  - **Lasso and Ridge Regression**: [Link to Resource](#)
+  
+  ## Day 2: Feature Transformations
+  
+  **Objective**: Introduction to Feature Transformations and their use for different types of data.
+  
+  ### Resources
+  - **All Feature Transformation**: [Link to Resource](#)
+  - **Scaling Methods**: [Link to Resource](#)
+  - **Categorical Encoding**: [Link to Resource](#)
+  - **Bag of Words**: [Link to Resource](#)
+  
+  ## Day 3: Evaluation Metrics
+  
+  **Objective**: Understanding the AUC-ROC Score and various other Evaluation Metrics.
+  
+  ### Resources
+  - **AUC - ROC Curve**: [Link to Resource](#)
+  - **AUC - ROC Curve Blog**: [Link to Blog](#)
+  - **Confusion Matrix**: [Link to Resource](#)
+  - **Confusion Matrix Blog**: [Link to Blog](#)
+  - **Evaluation Metrics**: [Link to Resource](#)
+  
+  ## Day 4: Naive Bayes Algorithms
+  
+  **Objective**: Learning about Naive and Gaussian Naive Bayes algorithms.
+  
+  ### Resources
+  - **Multinomial Naive Bayes Classifier**: [Link to Resource](#)
+  - **Gaussian Naive Bayes**: [Link to Resource](#)
+  - **Naive Bayes Implementation using Scikit-learn**: [Link to Resource](#)
+  
+  ## Day 5: Support Vector Machines (SVM)
+  
+  **Objective**: Understanding Support Vector Machine (SVM) algorithms.
+  
+  ### Resources
+  - **SVM 1**: [Link to Resource](#)
+  - **SVM 2**: [Link to Resource](#)
+  - **SVM 3**: [Link to Resource](#)
+  - **SVM Blog with Code Implementation**: [Link to Blog](#)
+  
 </details>
+
 
 <details>
 <summary><strong>Week 4</strong></summary>
