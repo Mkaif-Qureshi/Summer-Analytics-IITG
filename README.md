@@ -1,28 +1,6 @@
 # Summer-Analytics-IITG
 
-This repo contains all the materials, Colab notebooks, and code files for each day's tasks and assignments.
-
-## Table of Contents
-- [Week 1](#week-1)
-  - [Day 0: Getting Started](#day-0-getting-started)
-  - [Day 1: Python Basics](#day-1-python-basics)
-  - [Day 2: NumPy and Pandas Overview](#day-2-numpy-and-pandas-overview)
-  - [Day 3: Data Cleaning and Transformation with Pandas](#day-3-data-cleaning-and-transformation-with-pandas)
-  - [Day 4: Data Visualization](#day-4-data-visualization)
-  - [Day 5: Descriptive Statistics](#day-5-descriptive-statistics)
-- [Week 2](#week-2)
-  - [Day 1: Feature Engineering and Data Cleaning](#day-1-feature-engineering-and-data-cleaning)
-  - [Day 2: Introduction to Machine Learning](#day-2-introduction-to-machine-learning)
-  - [Day 3: Linear Regression with One Variable](#day-3-linear-regression-with-one-variable)
-  - [Day 4: Linear Regression with Multiple Variables](#day-4-linear-regression-with-multiple-variables)
-  - [Day 5: Logistic Regression](#day-5-logistic-regression)
-- [Week 3](#week-3)
-- [Week 4](#week-4)
-- [Week 5](#week-5)
-- [Week 6](#week-6)
-- [Additional Resources](#additional-resources)
-
----
+here is my learning journey of Summer Analytics'24 by IITG
 
 <details>
 <summary><strong>Week 1</strong></summary>
