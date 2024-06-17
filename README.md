@@ -11,6 +11,11 @@ This repo contains all the materials, Colab notebooks, and code files for each d
   - [Day 4: Data Visualization](#day-4-data-visualization)
   - [Day 5: Descriptive Statistics](#day-5-descriptive-statistics)
 - [Week 2](#week-2)
+  - [Day 1: Feature Engineering and Data Cleaning](#day-1-feature-engineering-and-data-cleaning)
+  - [Day 2: Introduction to Machine Learning](#day-2-introduction-to-machine-learning)
+  - [Day 3: Linear Regression with One Variable](#day-3-linear-regression-with-one-variable)
+  - [Day 4: Linear Regression with Multiple Variables](#day-4-linear-regression-with-multiple-variables)
+  - [Day 5: Logistic Regression](#day-5-logistic-regression)
 - [Week 3](#week-3)
 - [Week 4](#week-4)
 - [Week 5](#week-5)
@@ -56,37 +61,116 @@ This repo contains all the materials, Colab notebooks, and code files for each d
   ### Colab Notebooks
   - **Introduction to Matplotlib**: [Matplotlib Colab](https://colab.research.google.com/drive/1nIni-BLq5JRWLsRgXAyUS0l8byfHkKaK#scrollTo=NWl9k98Vhn0P)
   - **Introduction to Seaborn**: [Seaborn Colab](https://colab.research.google.com/drive/1jkMa6w6ss8CQQ1g4i1czXaLTii70lcdZ#scrollTo=hVUZXjlo1luL)
-  - **Introduction to Plotly**: [Plotly Colab](link-to-colab)
+  - **Introduction to Plotly**: [Plotly Colab](https://github.com/Mkaif-Qureshi/Summer-Analytics-IITG/blob/main/Notebooks/W1_4_IITG_plotly.ipynb)
   
   ## Day 5: Descriptive Statistics
   
   **Objective**: Summarizing data using descriptive statistics.
   
-  ### Colab Notebooks
+  ### Topics covered
   - **Data Types in Statistics**
-    - [Statistics Data Types Colab](link-to-colab)
   - **Measurement of Central Tendency**
-    - [Central Tendency Colab](link-to-colab)
   - **Normal Distribution**
-    - [Normal Distribution Colab](link-to-colab)
   - **Quantile Plots**
-    - [Quantile Plots Colab](link-to-colab)
 
 </details>
 
 <details>
 <summary><strong>Week 2</strong></summary>
 
-Content for Week 2 goes here...
+## Day 1: Feature Engineering and Data Cleaning
+
+**Objective**: Learn techniques to deal with common data issues like missing values, categorical values, and outliers.
+
+### Colab Notebooks:
+- **Outlier Analysis and Handling Missing Values**: [Link to Colab Notebook](https://colab.research.google.com/drive/1BEbrp05eBa378M_p7sNlH9PRKTTyMRCx#scrollTo=wNYP_FW3ra7h)
+
+## Day 2: Introduction to Machine Learning
+
+**Objective**: Gain a motivational understanding of Machine Learning, its applications, and basic concepts.
+
+### Resources:
+- **Linear Algebra**: [Link](https://cs229.stanford.edu/summer2019/cs229-linalg.pdf)
+
+## Day 3: Linear Regression with One Variable
+
+**Objective**: Study the simplest Machine Learning model, Linear Regression, along with the cost function and gradient descent.
+
+### Colab Notebooks:
+- **Linear Regression with One Variable Notebook**: [Link to Colab Notebook](#)
+
+## Day 4: Linear Regression with Multiple Variables
+
+**Objective**: Extend the understanding of Linear Regression to multiple features.
+
+### Colab Notebooks:
+- **Linear Regression with Multiple Variables Notebook**: [Link to Colab Notebook](#)
+
+## Day 5: Logistic Regression
+
+**Objective**: Get introduced to the first classification model, Logistic Regression.
+
+### Colab Notebooks:
+- **Logistic Regression Notebook**: [Link to Colab Notebook](#)
 
 </details>
 
 <details>
 <summary><strong>Week 3</strong></summary>
 
-Content for Week 3 goes here...
-
+  ## Day 1: Overfitting, Underfitting, and Regularization
+  
+  **Objective**: Understanding Overfitting, Underfitting, the Bias-Variance Tradeoff, and Regularization.
+  
+  ### Resources
+  - **Bias-Variance Video**: [Link to Video](#)
+  - **Blog**: [Link to Blog](#)
+  - **Overfitting and Regularisation**: Pages 37-41 from the provided material.
+  - **L1 L2 Regularization**: [Link to Resource](#)
+  - **Lasso and Ridge Regression**: [Link to Resource](#)
+  
+  ## Day 2: Feature Transformations
+  
+  **Objective**: Introduction to Feature Transformations and their use for different types of data.
+  
+  ### Resources
+  - **All Feature Transformation**: [Link to Resource](#)
+  - **Scaling Methods**: [Link to Resource](#)
+  - **Categorical Encoding**: [Link to Resource](#)
+  - **Bag of Words**: [Link to Resource](#)
+  
+  ## Day 3: Evaluation Metrics
+  
+  **Objective**: Understanding the AUC-ROC Score and various other Evaluation Metrics.
+  
+  ### Resources
+  - **AUC - ROC Curve**: [Link to Resource](#)
+  - **AUC - ROC Curve Blog**: [Link to Blog](#)
+  - **Confusion Matrix**: [Link to Resource](#)
+  - **Confusion Matrix Blog**: [Link to Blog](#)
+  - **Evaluation Metrics**: [Link to Resource](#)
+  
+  ## Day 4: Naive Bayes Algorithms
+  
+  **Objective**: Learning about Naive and Gaussian Naive Bayes algorithms.
+  
+  ### Resources
+  - **Multinomial Naive Bayes Classifier**: [Link to Resource](#)
+  - **Gaussian Naive Bayes**: [Link to Resource](#)
+  - **Naive Bayes Implementation using Scikit-learn**: [Link to Resource](#)
+  
+  ## Day 5: Support Vector Machines (SVM)
+  
+  **Objective**: Understanding Support Vector Machine (SVM) algorithms.
+  
+  ### Resources
+  - **SVM 1**: [Link to Resource](#)
+  - **SVM 2**: [Link to Resource](#)
+  - **SVM 3**: [Link to Resource](#)
+  - **SVM Blog with Code Implementation**: [Link to Blog](#)
+  
 </details>
+
 
 <details>
 <summary><strong>Week 4</strong></summary>
