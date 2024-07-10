@@ -1,6 +1,5 @@
 # Summer-Analytics-IITG
 
-here is my learning journey of Summer Analytics'24 by IITG
 
 <details>
 <summary><strong>Week 1</strong></summary>
